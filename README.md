@@ -1,0 +1,5 @@
+![Zrzut ekranu 2024-04-22 100143](https://github.com/danyPL/algorytm-sortowanie/assets/112093587/c01a624b-987e-444f-b8f6-c0785f0f9f15)
+![Zrzut ekranu 2024-04-22 100412](https://github.com/danyPL/algorytm-sortowanie/assets/112093587/ce57ead7-f1c2-4d0c-b946-de33e7c13c9f)
+![Zrzut ekranu 2024-04-22 100510](https://github.com/danyPL/algorytm-sortowanie/assets/112093587/261d7a23-743a-4d37-af51-b261ed07db29)
+![Zrzut ekranu 2024-04-22 100614](https://github.com/danyPL/algorytm-sortowanie/assets/112093587/987b3ecd-9cf1-483f-bec3-84e01ec47cd3)
+![Zrzut ekranu 2024-04-22 100646](https://github.com/danyPL/algorytm-sortowanie/assets/112093587/3995a70b-e42e-4b14-a0b8-9afa42eb8a69)
